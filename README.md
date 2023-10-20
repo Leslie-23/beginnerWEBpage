@@ -12,7 +12,7 @@ Angel Gabriel is a writer who aspires to share their creative work with the worl
 
 - **Home**: The homepage provides an introduction to Angel Gabriel and their creative aspirations.
 - **Portfolio**: Visit the portfolio page to explore Angel Gabriel's latest projects and writings.
-- **Contact**: Feel free to get in touch with Angel Gabriel via email. For any inquiries or collaboration opportunities, you can reach out to [angelgabriel78910@gmail.com](mailto:angelgabriel78910@gmail.com).
+- **Contact**: Feel free to get in touch with Angel Gabriel via email. For any inquiries or collaboration opportunities, you can reach out to [angelgabriel78910@gmail.com](mailto:angelgabriel78910111213@gmail.com).
 
 ## Explore the Website
 
